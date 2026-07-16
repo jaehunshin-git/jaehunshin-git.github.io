@@ -12,16 +12,9 @@
 
 
 ```
-
 ---
 
-## 📁 Privacy Policies by Service
-
-- [PDF to MD LLM Assistant Privacy Policy](./pdf-to-md-llm-assistant/privacy-policy.html)
-
----
-
-## 🌐 Other Links
+## ☎ Contacts
 
 - [GitHub](https://github.com/jaehunshin-git)
 - [Email: jhshin0422@email.com](mailto:jhshin0422@gmail.com)
