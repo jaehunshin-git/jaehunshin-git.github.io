@@ -17,4 +17,4 @@
 ## ☎ Contacts
 
 - [GitHub](https://github.com/jaehunshin-git)
-- [Email: jhshin0422@email.com](mailto:jhshin0422@gmail.com)
+- ✉️ Email: [jhshin0422@gmail.com](mailto:jhshin0422@gmail.com)
